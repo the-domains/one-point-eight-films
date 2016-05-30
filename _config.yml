@@ -1,14 +1,14 @@
-layout_spectrum: 0.2785140471532941
-typography_spectrum: 0.47901374381035566
+layout_spectrum: 0.7955697099678218
+typography_spectrum: 0.13931339816190302
 color:
-  brandStrength: 0.5170568535104394
-  lightness: 0.43631894839927554
-  saturation: 0.8082000873982906
-  rhythmicContrast: 0.9123296369798481
+  brandStrength: 0.027661446016281843
+  lightness: 0.5484627443365753
+  saturation: 0.7759102052077651
+  rhythmicContrast: 0.7977929320186377
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: one point eight films
